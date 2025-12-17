@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhdsheikhbilal
-- 👀 I’m interested in web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m a web Developer
+- 🌱 I’m continues learner...
+- 💞️ I’m looking to collaborate on Web Development Project's
 - 📫 How to reach me mhd.sheikhbilal@gmail.com
 
 <!---
